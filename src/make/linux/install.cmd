@@ -1,0 +1,1 @@
+gmake INSTALL=ginstall install_staticlib install_headers
